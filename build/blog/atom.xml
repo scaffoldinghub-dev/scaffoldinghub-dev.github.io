@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://scaffoldinghub.dev/blog</id>
+    <title>Scaffolding Hub Blog</title>
+    <updated>2023-01-14T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://scaffoldinghub.dev/blog"/>
+    <subtitle>Scaffolding Hub Blog</subtitle>
+    <icon>https://scaffoldinghub.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://scaffoldinghub.dev/blog/welcome"/>
+        <updated>2023-01-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the 2022 december holiday period I decided to learn some more about mason and dynamic code generation with build_runner. These tools seemed like a great way to experiment with how to solve a challenge I am facing as a weekend warrior developer. So much boiler plate!]]></summary>
+        <content type="html"><![CDATA[<p>Over the 2022 december holiday period I decided to learn some more about mason and dynamic code generation with build_runner. These tools seemed like a great way to experiment with how to solve a challenge I am facing as a weekend warrior developer. So much boiler plate!</p><p>For most of 2022 I have been exploring how to do meaningful test-driven development (TDD) and have progressed nicely, but find I can't get that far on a Saturday/Sunday and need to recover ground. </p><p>As a developer dating back to cold fusion and grails - I sensed there was an opportunity to bootstrap a lot of this work and also help others learn how to unit test CRUD (create, read, update and delete) actions in a a simple application. </p><p>The result?</p><ol><li><a href="https://github.com/mason_bricks" target="_blank" rel="noopener noreferrer">scaffolding, scaffolding_test, scaffolding_home, scaffolding_home_test</a></li><li><a href="https://pub.dev/packages/scaffolding" target="_blank" rel="noopener noreferrer">scaffolding package</a></li></ol><table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img loading="lazy" src="img/package.png" width="230" class="img_ev3q"></td><td><img loading="lazy" src="img/bricks.png" width="230" class="img_ev3q"></td><td><img loading="lazy" src="img/home_2feature_scaffold.png" width="230" class="img_ev3q"></td></tr><tr><td><img loading="lazy" src="img/feature1.png" width="230" class="img_ev3q"></td><td><img loading="lazy" src="img/feature2.png" width="230" class="img_ev3q"></td><td></td></tr></tbody></table><p>I now have 4 mason bricks and my first pub.dev dart/flutter package and a tonne of documentation to hopefully keep this moving and encourage other to contribute or learn from this work. </p><p>As I return to my exec role during the week, I also hope to remind my team that we are always <em>makers</em> :)</p>]]></content>
+        <author>
+            <name>Scott Horn</name>
+            <uri>https://github.com/sjhorn</uri>
+        </author>
+        <category label="scaffolding" term="scaffolding"/>
+        <category label="makers" term="makers"/>
+        <category label="making" term="making"/>
+        <category label="grails" term="grails"/>
+        <category label="rails" term="rails"/>
+        <category label="cold fusion" term="cold fusion"/>
+        <category label="weekend warrior developer" term="weekend warrior developer"/>
+    </entry>
+</feed>
