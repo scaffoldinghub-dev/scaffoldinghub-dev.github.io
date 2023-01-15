@@ -53,7 +53,7 @@ Learn more about the [static scaffolding](category/static-scaffolding)
 ```sh
 # ⭐️ Create a flutter project
 flutter create static_scaffolding
-cd static scaffolding
+cd static_scaffolding
 
 # 📚 Add the dependencies and initialise mason
 flutter pub add scaffolding equatable uuid flutter_bloc 
