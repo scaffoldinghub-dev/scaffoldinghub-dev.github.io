@@ -31,7 +31,7 @@ dart pub global activate mason_cli
 
 # ⭐️ Create a flutter project
 flutter create static_scaffolding
-cd static scaffolding
+cd static_scaffolding
 
 # 📚 Add the dependencies and initialise mason
 flutter pub add equatable uuid flutter_bloc
