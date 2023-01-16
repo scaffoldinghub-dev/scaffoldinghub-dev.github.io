@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6553],{2101:s=>{s.exports=JSON.parse('{"label":"cold fusion","permalink":"/blog/tags/cold-fusion","allTagsPath":"/blog/tags","count":1}')}}]);
