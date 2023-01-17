@@ -117,10 +117,7 @@ We will follow the format of the last four lines of `mason.yaml` but remove the 
 The last four lines of `mason.yaml` should now look like:
 ```yaml
 bricks:
-  scaffolding:
-      git:
-        url: https://github.com/sjhorn/mason_bricks
-        path: bricks/scaffolding
+  scaffolding: ^0.0.2 
 ```
 
 Afterwards you can get the brick by running
@@ -134,8 +131,7 @@ You could also have run the following from the command line to achieve the same:
 
 ```sh
 # 🧱 Add scaffolding brick to your mason config
-mason add scaffolding --git-url https://github.com/sjhorn/mason_bricks \
-    --git-path bricks/scaffolding
+mason add scaffolding
 ```
 
 🎈 Your brick is now installed 

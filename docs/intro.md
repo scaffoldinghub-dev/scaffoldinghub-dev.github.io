@@ -36,7 +36,7 @@ cd static_scaffolding
 # 📚 Add the dependencies and initialise mason
 flutter pub add equatable uuid flutter_bloc
 mason init
-mason add scaffolding --git-url https://github.com/sjhorn/mason_bricks --git-path bricks/scaffolding
+mason add scaffolding
 
 # 🚀 scaffold your app
 mason make scaffolding --package static_scaffolding --feature contact \
