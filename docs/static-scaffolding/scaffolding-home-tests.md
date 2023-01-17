@@ -11,9 +11,7 @@ So to add test to many features from the previous example we would first add the
 
 ```sh
 # 🏠 add the scaffolding_home_test brick
-mason add scaffolding_home_test \
-    --git-url https://github.com/sjhorn/mason_bricks \
-    --git-path bricks/scaffolding_home_test
+mason add scaffolding_home_test
 ```
 
 and then running with the same parameters as scaffolding_home_test

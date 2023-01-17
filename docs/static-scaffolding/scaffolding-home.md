@@ -21,9 +21,7 @@ To do this lets add the brick on our project.
 
 ```sh
 # 🏠 add the scaffolding_home brick
-mason add scaffolding_home \
-    --git-url https://github.com/sjhorn/mason_bricks \
-    --git-path bricks/scaffolding_home
+mason add scaffolding_home 
 ```
 
 ## Making more than one feature
