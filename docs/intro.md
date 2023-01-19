@@ -6,8 +6,7 @@ sidebar_position: 1
 
 Get started with **scaffolding in less than 5 minutes**.
 
-<img src="https://raw.githubusercontent.com/sjhorn/scaffolding/master/assets/scaffolding_full.png" width="200" height="200"/>
-
+![demo](/img/scaffolding.gif)
 
 
 ## Background
@@ -21,7 +20,7 @@ Lots of ideas, structure and approach lifted directly from the documentation, so
 
 Scaffolding is based on using templates to generate code either statically or dynamically. For both the system depends on [mason](https://docs.brickhub.dev) and the [implementation](https://github.com/sjhorn/mason_bricks) using mason is available to fork and edit.
 
-Lets get started with an exmaple
+Lets get started with an example
 
 ## Static scaffolding - quick start 💥
 
@@ -98,3 +97,7 @@ You can now create other abstract class or edit the original an hot restart your
 
 
 Learn more about [dynamic scaffolding](category/dynamic-scaffolding)
+
+
+
+[demo]: /img/scaffolding.gif
